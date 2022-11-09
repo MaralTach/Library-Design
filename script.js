@@ -108,6 +108,7 @@ var swiper = new Swiper(".books-slider", {
 
   var swiper = new Swiper(".reviews-slider", {
     spaceBetween: 10,
+    grabCursor:true,
     loop:true,
     centeredSlides: true,
     autoplay: {

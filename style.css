@@ -564,7 +564,7 @@ section{
     line-height: 2;
 }
 
-.reviews .reviews-slider .box .stars{
+.reviews .reviews-slider .box .stars i{
     font-size: 1.7rem;
     color: var(--green);
 }

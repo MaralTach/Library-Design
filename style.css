@@ -658,8 +658,12 @@ section{
     border-radius: 50%;
 }
 
-.footer .share a:hover{
-    background: var(--black);
+.footer .share .facebook a:hover{
+    background: #3b5998 ;
+}
+
+.footer .share .twitter a:hover{
+    background:  #1D9BF0;
 }
 
 .footer .credit{
